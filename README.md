@@ -1,16 +1,29 @@
 <p align="center">
-  <img src="banner.png" alt="Software Engineer Banner" width="100%">
+  <img src="./assets/banner.png" alt="Software Engineer Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Saravanan Thangaraj
 
-### Software Engineer | Full-Stack Developer | Java • Spring Boot • React.js
+### Java Full-Stack Developer | Spring Boot | React.js
 
 I'm a Full-Stack Developer passionate about building scalable and user-friendly web applications using **Java, Spring Boot, React.js, and MySQL**.
 
-I enjoy solving real-world problems, learning modern technologies, and developing practical software solutions.
+I enjoy solving real-world problems, learning modern technologies, and continuously improving my software engineering skills through practical projects.
 
 🏆 **6+ Certifications** • 💻 **4+ Projects** • 🥈 **Hackathon Runner-up** • 🌱 **Continuous Learner**
+
+---
+
+## 📑 Table of Contents
+
+- [🚀About Me](#about-me)
+- [🌱Currently Learning](#currently-learning)
+- [🛠️Tech Stack](#tech-stack)
+- [🚀Featured Projects](#featured-projects)
+- [📜Certifications](#certifications)
+- [🏅Achievements](#achievements)
+- [🚀Career Goals](#career-goals)
+- [📫Connect With Me](#connect-with-me)
 
 ---
 
@@ -18,7 +31,6 @@ I enjoy solving real-world problems, learning modern technologies, and developin
 
 - 🎓 Recently completed **M.Sc. Computer Science**
 - 💻 Passionate **Java Full-Stack Developer**
-- 🌱 Currently learning **Git, GitHub, DevOps, and System Design**
 - 🔭 Building projects using **Java, Spring Boot, React.js, and MySQL**
 - 🧠 Strong interest in **Backend Development, REST APIs, and Problem Solving**
 - 💼 Open to Software Engineer, Java Developer, Backend Developer, and Full-Stack Developer opportunities.
@@ -34,7 +46,6 @@ I enjoy solving real-world problems, learning modern technologies, and developin
 - Jira (SDLC)
 - MongoDB
 - System Design
-- Docker (Upcoming)
 
 ---
 
@@ -42,23 +53,32 @@ I enjoy solving real-world problems, learning modern technologies, and developin
 
 ### 💻 Programming Languages
 
-Java • JavaScript • SQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🎨 Frontend
 
-React.js • HTML5 • CSS3
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
 
-Spring Boot • Hibernate • REST APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### 🗄️ Database
 
-MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Tools
 
-Git • GitHub • Postman • VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
@@ -67,9 +87,17 @@ Git • GitHub • Postman • VS Code
 
 A full-stack healthcare platform built using **React.js, Spring Boot, Java, and MySQL** that helps users search medicine information through a modern web interface.
 
+✔ Generic Medicine Search
+
+✔ React + Spring Boot Architecture
+
+✔ REST APIs
+
+✔ MySQL Database
+
 **Tech Stack:** React.js • Spring Boot • Java • MySQL • REST APIs
 
-🔗 **Repository:** https://github.com/Saro-3/medintel
+🔗 **Repository:** [MedIntel](https://github.com/Saro-3/medintel)
 
 ---
 
@@ -79,7 +107,7 @@ An NLP-based web application that analyzes tweet sentiments using **Python, Text
 
 **Tech Stack:** Python • TextBlob • Pandas • Streamlit
 
-🔗 **Repository:** https://github.com/Saro-3/tweet-sentiment-analyzer
+🔗 **Repository:** [Tweet Sentiment Analysis](https://github.com/Saro-3/tweet-analysis-streamlit)
 
 ---
 
