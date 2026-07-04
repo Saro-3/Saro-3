@@ -16,17 +16,16 @@ I enjoy solving real-world problems, learning modern technologies, and continuou
 
 ## 📑 Table of Contents
 
-- [🚀About Me](#about-me)
+- [🚀About Me](#about)
 - [🌱Currently Learning](#currently-learning)
 - [🛠️Tech Stack](#tech-stack)
 - [🚀Featured Projects](#featured-projects)
 - [📜Certifications](#certifications)
 - [🏅Achievements](#achievements)
-- [🚀Career Goals](#career-goals)
 - [📫Connect With Me](#connect-with-me)
 
 ---
-
+<a name="about"></a>
 ## 🚀 About Me
 
 - 🎓 Recently completed **M.Sc. Computer Science**
@@ -36,7 +35,7 @@ I enjoy solving real-world problems, learning modern technologies, and continuou
 - 💼 Open to Software Engineer, Java Developer, Backend Developer, and Full-Stack Developer opportunities.
 
 ---
-
+<a name="currently-learning"></a>
 ## 🌱 Currently Learning
 
 - Git & GitHub
@@ -48,7 +47,7 @@ I enjoy solving real-world problems, learning modern technologies, and continuou
 - System Design
 
 ---
-
+<a name="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -80,7 +79,7 @@ I enjoy solving real-world problems, learning modern technologies, and continuou
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
-
+<a name="featured-projects"></a>
 ## 🚀 Featured Projects
 
 ### 🏥 MedIntel – Generic Medicine Intelligence System
@@ -118,7 +117,7 @@ A smart assistive device developed using **Arduino Nano, ESP32, Ultrasonic Senso
 **Tech Stack:** Arduino • ESP32 • Embedded C • IoT
 
 ---
-
+<a name="certification"></a>
 ## 📜 Certifications
 
 ### ☕ Programming
@@ -138,22 +137,14 @@ A smart assistive device developed using **Arduino Nano, ESP32, Ultrasonic Senso
 - Gemini Certified Student – Google for Education
 
 ---
-
+<a name="achievements"></a>
 ## 🏅 Achievements
 
 - 🥈 Runner-up – Heber Hackathon 2025 (35+ Teams)
 - 🥉 3rd Place – Ideas to Model: Ideation Challenge 2025
 
 ---
-
-## 🚀 Career Goals
-
-- Build scalable software solutions
-- Contribute to open-source projects
-- Continuously improve my software engineering skills
-
----
-
+<a name="connect-with-me"></a>
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [ImSaro](https://www.linkedin.com/in/imsaro28/)
