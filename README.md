@@ -117,7 +117,7 @@ A smart assistive device developed using **Arduino Nano, ESP32, Ultrasonic Senso
 **Tech Stack:** Arduino • ESP32 • Embedded C • IoT
 
 ---
-<a name="certification"></a>
+<a name="certifications"></a>
 ## 📜 Certifications
 
 ### ☕ Programming
